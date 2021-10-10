@@ -1,0 +1,23 @@
+{
+  "name": "return-undefined",
+  "version": "1.0.0",
+  "description": "Returns undefined, thats it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukaruta/returnUndefined.git"
+  },
+  "keywords": [
+    "return",
+    "undefined"
+  ],
+  "author": "sukaruta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukaruta/returnUndefined/issues"
+  },
+  "homepage": "https://github.com/sukaruta/returnUndefined#readme"
+}

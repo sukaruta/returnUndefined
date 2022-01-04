@@ -16,7 +16,7 @@ No.
 # Usage:
 ```js
 const returnUndefined = require('return-undefined')
-console.log(returnUndefined)
+console.log(returnUndefined())
 // undefined
 ```
 

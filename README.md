@@ -15,9 +15,6 @@ No.
 
 # Usage:
 ```js
-const returnUndefined = require('return-undefined')
-console.log(returnUndefined())
-// undefined
+const returnUndefined = require('return-undefined');
+console.log(returnUndefined()); // returns: undefined
 ```
-
-~~You guys aren't actually using this.. right?~~

@@ -1,6 +1,6 @@
 {
   "name": "return-undefined",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns undefined. that's literally it.",
   "main": "index.js",
   "scripts": {

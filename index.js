@@ -1,4 +1,4 @@
 /**
- * @returns { undefined }
+ * @returns { undefined } undefined
  */
 module.exports = () => undefined;
